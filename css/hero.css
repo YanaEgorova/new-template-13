@@ -1,8 +1,5 @@
 .hero__wrapper {
-    background-image: url('../img/bg1.jpeg');
-    background-position: center; 
-    background-repeat: no-repeat;
-    background-size: cover;
+    border-bottom: 5rem solid var(--third-brand-color);
 }
 .hero {
     padding: 20rem 0;
